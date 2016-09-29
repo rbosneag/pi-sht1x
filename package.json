@@ -1,12 +1,12 @@
 {
   "name": "pi-sht1x",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Raspberry Pi library for SHT1x humidity/temperature sensors.",
   "main": "SHT1x.js",
   "dependencies": {
-    "async": "0.2.x",
+    "async": "2.0.x",
     "pi-gpio": ">= 0.0.2",
-    "sleep": "1.1.x"
+    "sleep": "4.0.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
